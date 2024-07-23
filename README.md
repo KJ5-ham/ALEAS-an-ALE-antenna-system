@@ -19,6 +19,7 @@ Untested configurations that this unun should work with:
 
 
 BOM:
+
 BN43-7051 bino toroid
 
 6mm OD .2mm wall thickness copper tubing
@@ -35,6 +36,8 @@ Radiator of choice
 
 25ft counterpoise wire
 
+
+Instructions:
 
 Cut copper tubing to length, 37mm is the shortest I recommend.
 
