@@ -1,4 +1,4 @@
-![WIN_20240723_14_23_12_Pro](https://github.com/user-attachments/assets/a418c4c0-4d4c-4adf-98f8-8170aeed35bb)![WIN_20240723_14_23_12_Pro](https://github.com/user-attachments/assets/178a7d8a-297b-4f87-b557-c9a94512d717)
+![WIN_20240723_14_23_12_Pro](https://github.com/user-attachments/assets/bab3960b-5d38-4ea7-86b9-209a3eeacf15)
 
 ![PCB_PCB_ALEAS_2024-07-23](https://github.com/user-attachments/assets/965f0e57-4cf7-4894-b516-2c500dd0b579)
 
