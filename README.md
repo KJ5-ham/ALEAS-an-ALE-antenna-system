@@ -12,13 +12,21 @@ Untested configurations that this unun should work with:
 
 BOM:
 BN43-7051 bino toroid
+
 6mm OD .2mm wall thickness copper tubing
+
 18ga PTFE teflon high temp wire- 2ft minimum
+
 PCB top and bottom
+
 2 bolts with hex nuts and wing nuts for terminals
+
 Housing and connector of choice
+
 Radiator of choice
+
 25ft counterpoise wire
+
 
 Cut copper tubing to length, 37mm is the shortest I recommend.
 Place PCBs with tracing facing away from toroid to protect it from heat. Make sure the offsets are on the same side of the toroid. solder copper tubing into PCBs.
