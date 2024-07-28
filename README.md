@@ -24,6 +24,11 @@ Untested configurations that this unit should work with:
 
 108ft radiator and 25ft counterpoise
 
+**Efficiency data**
+
+Testing for SWR and loss done with two series transformers and a dummy load. 
+
+<img width="227" alt="ALEAS efficiency" src="https://github.com/user-attachments/assets/c6222d00-43f5-434e-a23d-a25614c433cd">
 
 
 
